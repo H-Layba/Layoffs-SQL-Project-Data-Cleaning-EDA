@@ -88,10 +88,3 @@ A range of queries was used to analyze the cleaned data:
 * Used `DENSE_RANK()` to identify the top 5 companies with the most layoffs in each year.
 
 ---
-
-
-If you found this project useful, consider giving it a ⭐ or contributing with improvements. You can also fork it and build visual dashboards with Power BI, Tableau, or Python!
-
----
-
-Would you like me to bundle this README and the SQL script into a downloadable ZIP file?
